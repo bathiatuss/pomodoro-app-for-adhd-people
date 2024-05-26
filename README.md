@@ -51,8 +51,7 @@ The app's simple design minimizes distractions, allowing users, particularly tho
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](Screenshot_1716755393.png")
 
 ## Contribution
 
