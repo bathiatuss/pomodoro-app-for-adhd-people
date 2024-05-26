@@ -49,9 +49,12 @@ The Pomodoro Technique helps break work into short, manageable intervals (usuall
 
 The app's simple design minimizes distractions, allowing users, particularly those with ADHD, to focus on their tasks and manage their work intervals effectively. The absence of a pause button ensures that users stay committed to their work periods without interruptions.
 
-## Screenshots
+## Screenshots and QR Code for APK
 
-![Screenshot 1](Screenshot_1716755393.png")
+<div align="center">
+  <img src="Screenshot_1716755393.png" alt="Screenshot" width="300">
+  <img src="apk_download_qr.png" alt="QR Code" width="250">
+</div>
 
 ## Contribution
 
@@ -66,4 +69,4 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 This application was inspired by discussions on ADHD and productivity, including insights shared by developers with ADHD on platforms such as Stack Overflow, and techniques recommended by professionals for managing ADHD, such as the Pomodoro Technique. For more information, see:
 
 - ["What developers with ADHD want you to know"](https://stackoverflow.blog/2023/03/10/what-developers-with-adhd-want-you-to-know/)
-- ["Pomodoro Technique for ADHD: Why it Helps & How to Begin"](https://www.verywellmind.com/pomodoro-technique-for-adhd-5204929)
+- ["Pomodoro Technique for ADHD: Why it Helps & How to Begin"](https://www.choosingtherapy.com/pomodoro-technique-adhd/)
