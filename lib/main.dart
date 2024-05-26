@@ -54,13 +54,6 @@ class _PomodoroScreenState extends State<PomodoroScreen> {
     _timer.cancel();
   }
 
-  void _takeaBrake() {
-    setState(() {
-      _minutes = 5;
-      _seconds = 0;
-    });
-  }
-
   void _setTimer(int minutes) {
     setState(() {
       _minutes = minutes;
@@ -173,7 +166,7 @@ class _PomodoroScreenState extends State<PomodoroScreen> {
                         ],
                       ),
                       child: ElevatedButton(
-                        onPressed: _takeaBrake,
+                        onPressed: () => _setTimer(5),
                         child: Text('Take a Brake'),
                       ),
                     ),
